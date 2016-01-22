@@ -4,3 +4,20 @@ body{
 h1{
     font-family: sans-serif;
 }
+
+.center {
+     margin: auto;
+     width: 60%;
+}
+
+.left{
+    background-color: red; 
+    margin: left;
+    width: 20%;
+}
+
+.right{
+    background-color: yellowgreen;
+    margin: right;
+    width: 20%;
+}
