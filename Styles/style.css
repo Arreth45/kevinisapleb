@@ -10,14 +10,12 @@ h1{
      width: 60%;
 }
 
-.left{
-    background-color: red; 
+.left{ 
     margin: left;
     width: 20%;
 }
 
 .right{
-    background-color: yellowgreen;
     margin: right;
     width: 20%;
 }
