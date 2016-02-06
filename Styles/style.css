@@ -22,9 +22,10 @@ h1{
 .rank{
     margin: auto;
     width: 50%;
+    color: white;
 }
 .quote{
-    color: DF4D55;
+    color: gold;
     font-style: italic;
 }
 
