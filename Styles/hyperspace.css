@@ -13,8 +13,6 @@ body{
   background: #000;
   text-align: center;
   cursor: url(../pictures/cursor.gif),auto;
-  cursor: url(../pictures/cursor.gif),wait;
-  cursor: url(../pictures/cursor.gif),pointer;
 }
 
 body:before{
