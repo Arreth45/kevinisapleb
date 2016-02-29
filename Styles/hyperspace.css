@@ -12,7 +12,6 @@ html, body{
 body{
   background: #000;
   text-align: center;
-  cursor: url(../pictures/cursor.gif),auto;
 }
 
 body:before{
