@@ -30,7 +30,7 @@ body:before{
   animation: fadeIn 3s 1 linear;
   animation-fill-mode: forwards;
   position: relative;
-  cursor: url(../pictures/cursor.gif),auto;
+  cursor: url(../pictures/cursor.gif);
 }
 
 .wrap{
