@@ -6,3 +6,9 @@ function result() {
         alert("Incorrect Kevin is a Pleb");
     }
 }
+
+document.addEventListener('konamiCode', function(event) {
+  // do stuff on konami Code
+  window.location.replace("http://kevinisapleb.azurewebsites.net");
+  
+})
