@@ -9,6 +9,6 @@ function result() {
 
 document.addEventListener('konamiCode', function(event) {
   // do stuff on konami Code
-  window.location.replace("http://kevinisapleb.azurewebsites.net");
+  window.location.replace("http://kevinisapleb.azurewebsites.net/video.html");
   
 })
