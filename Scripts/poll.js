@@ -12,3 +12,5 @@ document.addEventListener('konamiCode', function(event) {
     window.location.replace("http://kevinisapleb.azurewebsites.net/video.html");
 
 })
+
+window.onload = alert("Caution: Virus = Very yes");
